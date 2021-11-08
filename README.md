@@ -1,0 +1,1 @@
+Example of simple telegram bot using pyTelegramBotAPI.
